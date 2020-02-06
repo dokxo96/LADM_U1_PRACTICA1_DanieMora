@@ -68,7 +68,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Google Keep"
+                android:text="Google Keep"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -94,7 +94,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Evernote"
+                android:text="Evernote"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -120,7 +120,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="One Note"
+                android:text="One Note"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -176,7 +176,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Weebly"
+                android:text="Weebly"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -201,7 +201,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Three Ring"
+                android:text="Three Ring"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -226,7 +226,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Seesaw"
+                android:text="Seesaw"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -281,7 +281,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="slide"
+                android:text="slide"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -306,7 +306,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Power Point"
+                android:text="Power Point"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -331,7 +331,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Prezi"
+                android:text="Prezi"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
@@ -385,7 +385,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="EasyBib"
+                android:text="EasyBib"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -411,7 +411,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Cite this for me"
+                android:text="Cite this for me"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -437,7 +437,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Mendeley"
+                android:text="Mendeley"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -492,7 +492,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Magistro"
+                android:text="Magistro"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -518,7 +518,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Video editor"
+                android:text="Video editor"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -544,7 +544,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Animoto video"
+                android:text="Animoto video"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -579,7 +579,7 @@
             android:textSize="12dp"
             android:textAlignment="center"
             android:background="#ffffff"
-            android:text="\nAndroid\Mind Mapping\nApps" />
+            android:text="\nAndroid\nMind\nMapping\nApps" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -599,7 +599,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="SimpleMind"
+                android:text="SimpleMind"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -625,7 +625,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="MindMeister"
+                android:text="MindMeister"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"
@@ -651,7 +651,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Mindomo"
+                android:text="Mindomo"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:textSize="12dp"

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LADM_U1_PRACTICA1</string>
+
+    <array name="menus">
+        <item>activity1</item>
+        <item>activity2</item>
+        <item>activity3</item>
+        <item>activity4</item>
+    </array>
 </resources>
